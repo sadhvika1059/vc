@@ -1,0 +1,24 @@
+{
+  "name": "vc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadhvika1059/vc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadhvika1059/vc/issues"
+  },
+  "homepage": "https://github.com/sadhvika1059/vc",
+  "description": "one to one vid chat",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}

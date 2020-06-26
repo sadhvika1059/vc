@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/sadhvika1059/vc/issues"
   },
-  "homepage": "https://github.com/sadhvika1059/vc#public",
+  "homepage": "https://github.com/sadhvika1059/vc/public",
   "description": "one to one vid chat",
   "dependencies": {
     "express": "^4.17.1",

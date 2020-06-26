@@ -5,7 +5,7 @@ const io = require('socket.io')(http)
 const port = process.env.PORT || 3000
 
 
-app.use(express.static(__dirname + 'public')), //Serves resources from public folder
+app.use(express.static(__dirname + '/public')), //Serves resources from public folder
 
 app.listen(process.env.PORT);
 let clients = 0
